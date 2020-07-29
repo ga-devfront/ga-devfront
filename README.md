@@ -1,10 +1,5 @@
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ga-devfront&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ga-devfront&repo=convoychat" />
-</a>
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ga-devfront)](https://github.com/anuraghazra/github-readme-stats)
   <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
