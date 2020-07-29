@@ -1,6 +1,7 @@
 <h3>📈 Statistiques</h3>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ga-devfront)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ga-devfront)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>🔧 Outils</h3>
