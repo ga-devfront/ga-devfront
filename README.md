@@ -31,7 +31,7 @@
 </p>
 
 
-<h3>💡 Infos</h3><br/>
+<h3>💡 Infos</h3>
 
 - 🔭 Je travail actuellement sur [BackupOrganizer](https://github.com/MrStanDu33/BackupOrganizer-Front)
 - 🌱 Je suis entrain d'apprendre  <img src="https://img.shields.io/badge/-PHP-blueviolet"> <img src="https://img.shields.io/badge/-MySQL-yellow">
