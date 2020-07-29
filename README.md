@@ -33,8 +33,8 @@
 
 <h3>💡 Infos</h3><br/>
 
-- 🔭 Je travail actuellement sur 
-- 🌱 Je suis entrain d'apprendre 
+- 🔭 Je travail actuellement sur [BackupOrganizer](https://github.com/MrStanDu33/BackupOrganizer-Front)
+- 🌱 Je suis entrain d'apprendre  <img src="https://img.shields.io/badge/-PHP-blueviolet"> <img src="https://img.shields.io/badge/-MySQL-yellow">
 - 👯 Je cherche à collaborer sur
 - 🤔 J'ai besoin d'aide pour trouver un travail sur Genève (Suisse).
 - 💬 N'hésitez pas à me pauser vos questions.
