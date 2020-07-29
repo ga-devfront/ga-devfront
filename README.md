@@ -1,10 +1,9 @@
-<h3>📈 Mes statistiques</h3><br/>
+<h3>📈 Statistiques</h3>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ga-devfront)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ga-devfront)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>🔧 Mes outils</h3><br/>
-
+<h3>🔧 Outils</h3>
 <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -24,24 +23,18 @@
 </p>
 
 <p>
-  📣 Besoin de me contacter ? Retrouvez-moi ici :<br/>
+  <h3>💬  Me contacter</h3>
   <a href="mailto:contact@dag-dev.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.instagram.com/agdevfront"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/alexis-guyomar/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/AGDevfrontend"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
-<img src="http://views.whatilearened.today/views/github/ga-devfront/views.svg"/>
 
+<h3>💡 Infos</h3><br/>
 
-<h3>⚡️ Vous souhaitez en savoir plus sur moi ? ⚡️</h3><br/>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Je travail actuellement sur 
+- 🌱 Je suis entrain d'apprendre 
+- 👯 Je cherche à collaborer sur
+- 🤔 J'ai besoin d'aide pour trouver un travail sur Genève (Suisse).
+- 💬 N'hésitez pas à me pauser vos questions.
