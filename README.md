@@ -37,5 +37,5 @@
 - 🔭 Je travail actuellement sur [BackupOrganizer](https://github.com/MrStanDu33/BackupOrganizer-Front)
 - 🌱 Je suis entrain d'apprendre  <img src="https://img.shields.io/badge/-PHP-blueviolet"> <img src="https://img.shields.io/badge/-MySQL-yellow">
 - 👯 Je cherche à collaborer sur un projet en tant que développeur frontend Vue.JS / Javascript.
-- 🤔 J'ai besoin d'aide pour trouver un travail sur Genève (Suisse).
+- 🤔 J'ai besoin d'aide pour trouver un travail sur Genève (Suisse) ou en remote freelance.
 - 💬 N'hésitez pas à me pauser vos questions.
