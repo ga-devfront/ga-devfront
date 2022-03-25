@@ -36,5 +36,5 @@
 - 🔭 Je travail actuellement sur [Bollards training](https://github.com/ga-devfront/bollards-training)
 - 🌱 Je suis entrain d'apprendre  <img src="https://img.shields.io/badge/-Strapi-blueviolet">
 - 👯 Je suis ouvert à toute opportunité de développement frontend Vue.JS / Javascript.
-- 🤔 Je fait partis de la société [SmartBooster](https://www.smartbooster.io/).
+- :office: Je suis développeur Frontend chez [SmartBooster](https://www.smartbooster.io/).
 - 💬 N'hésitez pas à me pauser vos questions.
