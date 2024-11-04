@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/ga-devfront)
+![Metrics](github-metrics.svg)
