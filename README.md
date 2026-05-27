@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alexis Guyomar</h1>
-<h3 align="center">Fullstack Developer · Vue.js / TypeScript / PHP & Symfony</h3>
+<h3 align="center">Fullstack Developer · TypeScript & Vue.js / PHP & Symfony</h3>
 <p align="center">
   Based in Haute-Savoie, France · cross-border worker with Geneva, Switzerland
 </p>
