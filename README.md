@@ -23,7 +23,10 @@ I enjoy shipping features that make daily life easier for developers and merchan
 - **+400 merged pull requests** across ~90 repositories on the PrestaShop organizations (2022 → today)
 - **24th lifetime contributor to PrestaShop open source** with 274 contributions · [official ranking](https://contributors.prestashop-project.org/?contributor=ga-devfront)
 - **PrestaShop Expert** certified, Storefront skills (Feb. 2026 → Feb. 2028)
-- Speaker at the **PrestaShop Developer Conference 2023 and 2024**
+- Speaker at the **PrestaShop Developer Conference** three years running:
+  - <a href="https://events.prestashop.com/e/prestashop-developer-conference-2025/fr/session/b1e7fa9c-22a5-f011-8e60-6045bd8d9978/theme-hummingbird-2-0-construire-des-boutiques-prestashop-plus-rapides-et-plus-accessibles" target="_blank" rel="noopener noreferrer">2025 - Hummingbird 2.0: building faster, more accessible PrestaShop stores</a>
+  - <a href="https://events.prestashop.com/e/prestashop-developer-conference/fr/session/87116764-1986-ef11-8473-6045bd89bd6e/-fr-vive-l-update-assistant-renforcer-la-confiance-dans-les-mises-a-jour-de-votre-boutique" target="_blank" rel="noopener noreferrer">2024 - Update Assistant: building trust in your store's updates</a>
+  - <a href="https://events.prestashop.com/e/prestashop-developer-conference-2023/fr/session/5036a911-2173-ee11-a532-6045bd8ead8a/-fr-rencontre-avec-hummingbird-le-nouveau-theme-par-defaut-de-prestashop" target="_blank" rel="noopener noreferrer">2023 - Meet Hummingbird, PrestaShop's new default theme</a>
 - Author of the **Bootstrap Compatibility Layer**, ~500 weekly downloads on NPM
 - Currently working on [PrestaShop/autoupgrade](https://github.com/PrestaShop/autoupgrade)
 
@@ -36,7 +39,7 @@ End-to-end rebuild of PrestaShop's upgrade module: 113 PRs over two years on a t
 
 *Backend:* refactoring and dead-code removal to reduce technical debt, fallback scripts to recover from failed upgrades, comparison tooling between upgraded and fresh installations, broad unit test coverage.
 
-*Cross-cutting:* CI/CD workflow setup, UX/UI overhaul to simplify daily use, presented at the **PrestaShop Developer Conference 2024**.
+*Cross-cutting:* CI/CD workflow setup, UX/UI overhaul to simplify daily use, presented at the <a href="https://events.prestashop.com/e/prestashop-developer-conference/fr/session/87116764-1986-ef11-8473-6045bd89bd6e/-fr-vive-l-update-assistant-renforcer-la-confiance-dans-les-mises-a-jour-de-votre-boutique" target="_blank" rel="noopener noreferrer"><strong>PrestaShop Developer Conference 2024</strong></a>.
 
 **Stack:** TypeScript, SCSS, Vite, PHP, Symfony, Twig
 
